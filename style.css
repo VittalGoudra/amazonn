@@ -1,0 +1,259 @@
+*{
+    margin:0px;
+    border:border-box;
+
+}
+.navbar{
+    height:60px;
+    background-color: black;
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-div{
+    height:50px;
+    width:100px;
+   
+}
+.nav-logo{
+    background-image: url("./logo.jpg");
+    background-size: cover;
+    height:50px;
+    width: 100%;
+    
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+/** two **/
+.deliver{
+    position: relative;
+    top:5px
+
+
+}
+.one{
+    font-size: 0.8rem;
+    margin-left: 15px;
+}
+.two{
+    font-size: 1rem;
+    margin-left: 08px;
+}
+.div-deliver {
+    display:flex;
+}
+.search-box{
+    display:flex;
+    height:45px;
+    width:650px;
+    background-color: pink;
+    border-radius: 4px;
+    justify-content: space-evenly;
+    margin-top:6px;
+
+}
+.option{
+    width:50px;
+    background-color: beige;
+    text-align: center;
+    border-top-left-radius:4px;
+    border-bottom-left-radius:4px;
+    border:none
+
+
+}
+.input{
+    width:100%;
+    border:none;
+
+}
+.search-box:hover{
+    border:2px solid yellow;
+}
+.search{
+    width:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border:none
+
+}
+.country{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+
+}
+.sign{
+    
+    justify-content: center;
+    align-items: center;
+}
+.tree{
+    font-size: 0.85rem;
+}
+
+.divv{
+    font-size: 0.85rem;
+}
+.cart i{
+    font-size: 35px;
+}
+.hero{
+    background-color: cadetblue;
+    display: flex;
+    height:40px;
+    justify-content: space-evenly;
+   align-items: center;
+}
+
+
+
+
+.today{
+    display: flex;
+    width:70%;
+    font-size: 0.85rem;
+    
+}
+.today p{
+    margin-left: 25px;
+}
+
+
+
+.shop{
+    font-size: 1rem;
+}
+.content{
+    background-image: url("./hero.jpg");
+    height:400px;
+    background-size: cover;
+}
+.heromsg{
+    background-color: white;
+    height:40px;
+    display:flex;
+   justify-content: center;
+   align-items: center;
+   position:relative;
+   top:300px;
+}
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    flex-wrap: wrap;
+
+}
+.box{
+    height:100px;
+   /** border:2px solid black;**/
+    width:23%;
+    height: 400px;
+    padding:20px 0px 15px;
+    background-color: beige;
+    margin-top: 15px;
+
+   
+}
+.image{
+    background-image: url("./04.jpg");
+    background-size: cover;
+    height:300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.class{
+    margin-left: 10px;
+    margin-right:15px;
+   
+}
+.image1{
+    background-image: url("./03.jpg");
+    background-size: cover;
+    height:300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.image2{
+    background-image: url("./02.jpg");
+    background-size: cover;
+    height:300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.image3{
+    background-image: url("./07.jpg");
+    background-size: cover;
+    height:300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+footer{
+    margin-top: 15px;
+}
+.panel-one{
+    background-color: rgb(139, 144, 144);
+    height:50px;
+    color:aliceblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.panel-two{
+    background-color:rgb(178, 142, 111);
+    height:250px;
+    display:flex;
+    justify-content: space-evenly;
+  
+   
+
+}
+ul a{
+    display:block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+
+}
+ul p{
+    margin-top: 10px;
+    font-weight: 900;
+}
+.foot{
+    height:150px;
+    background-color: rgb(178, 142, 111);
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border:0.5px solid black;
+}
+.am{
+    height:60px;
+    width:120px;
+}
+.ligo{
+    background-image:url("./logo.jpg");
+    background-size: cover;
+    height: 60px;
+    width:100%;
+    
+}
+.div1{
+    border:2px solid white;
+    
+}
+.div2{
+    border:2px solid white;
+    
+}
